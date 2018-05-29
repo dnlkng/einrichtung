@@ -90,3 +90,12 @@ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local
 
 # Evaluate
 https://github.com/bhilburn/powerlevel9k
+https://github.com/donnemartin/haxor-news#installation
+https://taskwarrior.org/
+https://github.com/Netflix-Skunkworks/go-jira
+
+# Resources
+http://sourabhbajaj.com/mac-setup/
+https://terminalsare.sexy/
+https://vimawesome.com
+
