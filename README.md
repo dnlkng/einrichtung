@@ -37,7 +37,13 @@ brew install ripgrep
 
 
 ## bfs
+```
+brew install tavianator/tap/bfs
+
 ## tmux
+```
+brew install ripgrep
+```
 ## git
 ```
 git config --global user.email "daniel.koenig@dampsoft.de"
@@ -60,7 +66,17 @@ mvim ~/.vimrc
 ## fd
 ## zplug
 ## exa
-
+```
+brew install exa
+```
+## ranger
+```
+brew install ranger
+```
+## tldr
+```
+brew install tldr
+```
 
 ## Sublime Text 3
 ```
