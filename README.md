@@ -39,15 +39,17 @@ brew install ripgrep
 ## bfs
 ```
 brew install tavianator/tap/bfs
+```
 
 ## tmux
 ```
-brew install ripgrep
+brew install tmux
 ```
+
 ## git
 ```
 git config --global user.email "daniel.koenig@dampsoft.de"
-  280  2018-05-22 14:31  git config --global user.name "könig"
+git config --global user.name "könig"
 ```
 
 ## MacVim
@@ -81,7 +83,7 @@ brew install tldr
 ## Sublime Text 3
 ```
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-
+```
 
 ## iTerm2
 ### Solarized Dark Theme
