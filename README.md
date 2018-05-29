@@ -87,3 +87,6 @@ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local
 
 ## iTerm2
 ### Solarized Dark Theme
+
+# Evaluate
+https://github.com/bhilburn/powerlevel9k
