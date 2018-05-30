@@ -36,6 +36,10 @@ ZSH_THEME="denial"
 ```
 Wobei ich mittlerweile Powerlevel9k einsetze und damit sehr zufrieden bin.
 
+### Nützliche oh my zsh plugins
+#### Z
+Damit kann man in die am häufigsten besuchten Ordner wechseln.
+
 ## fzf
 ```
 brew install fzf
