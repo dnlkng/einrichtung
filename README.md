@@ -10,9 +10,9 @@ https://brew.sh
 ```
 
 ## ZSH
-Ist die mächtiger und schneller als Bash oder andere Shells. Ausserdem ist der Community-Support meiner Meinung nach größer.
+Ist mächtiger und schneller als Bash oder andere Shells. Ausserdem ist der Community-Support meiner Meinung nach größer.
 
-Als Alternative wäre noch fish zu evaluieren. Wobei diese wohl [keine Posix-Shell|https://stackoverflow.com/questions/48732986/] ist.
+Als Alternative wäre noch fish zu evaluieren. Wobei diese wohl [keine Posix-Shell](https://stackoverflow.com/questions/48732986/) ist.
 ```
 brew install zsh zsh-completion
 chsh -s /usr/local/bin/zsh
