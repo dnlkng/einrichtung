@@ -106,6 +106,9 @@ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local
 ## iTerm2
 ### Solarized Dark Theme
 
+## Dotfiles
+<https://dotfiles.github.io>
+
 # Evaluate
 <https://github.com/bhilburn/powerlevel9k>
 <https://github.com/donnemartin/haxor-news#installation>
