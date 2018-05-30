@@ -4,7 +4,7 @@ Hier dokumentiere ich für mich die Einrichtung eines neuen Mac.
 # Tools
 ## Brew
 Homebrew ist der inoffizielle Packagemanager for macOS und eigentlich unersetzlich für Entwickler. Die meisten Packages werden als Source bezogen und lokal gebaut, wobei es auch fertige Binarys gibt.
-[https://brew.sh]
+<https://brew.sh>
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
@@ -107,13 +107,13 @@ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local
 ### Solarized Dark Theme
 
 # Evaluate
-[https://github.com/bhilburn/powerlevel9k]
-[https://github.com/donnemartin/haxor-news#installation]
-[https://taskwarrior.org/]
-[https://github.com/Netflix-Skunkworks/go-jira]
+<https://github.com/bhilburn/powerlevel9k>
+<https://github.com/donnemartin/haxor-news#installation>
+<https://taskwarrior.org/>
+<https://github.com/Netflix-Skunkworks/go-jira>
 
 # Resources
-[http://sourabhbajaj.com/mac-setup/]
-[https://terminalsare.sexy/]
-[https://vimawesome.com]
+<http://sourabhbajaj.com/mac-setup/>
+<https://terminalsare.sexy/>
+<https://vimawesome.com>
 
