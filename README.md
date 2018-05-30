@@ -3,7 +3,7 @@ Hier dokumentiere ich für mich die Einrichtung eines neuen Mac.
 
 # Tools
 ## Brew
-Homebrew ist der inoffizielle Packagemanager for macOS. Die meisten Packages werden als Source bezogen und lokal gebaut, wobei es auch fertige Binarys gibt.
+Homebrew ist der inoffizielle Packagemanager for macOS und eigentlich unersetzlich für Entwickler. Die meisten Packages werden als Source bezogen und lokal gebaut, wobei es auch fertige Binarys gibt.
 https://brew.sh
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -58,8 +58,9 @@ brew install tmux
 ```
 
 ## git
+Für git sollten die wichtigsten Parameter gesetzt werden.
 ```
-git config --global user.email "daniel.koenig@dampsoft.de"
+git config --global user.email "daniel@koenig.io"
 git config --global user.name "könig"
 ```
 
@@ -87,8 +88,14 @@ brew install exa
 brew install ranger
 ```
 ## tldr
+Manchmal sind man pages einfach zu viel, um schnell ein einfachen Task zu erledigen. [Remember tar](https://xkcd.com/1168/). Dafür gibt es tldr, eine community driven Sammlung von kurzen, knackigen Beschreibungen zu den wichtigsten commandline tools.
 ```
 brew install tldr
+```
+Benutzung:
+```
+# tldr [commandname]
+tldr tmux
 ```
 
 ## Sublime Text 3
