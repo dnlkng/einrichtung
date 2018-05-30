@@ -88,7 +88,7 @@ brew install exa
 brew install ranger
 ```
 ## tldr
-Manchmal sind man pages einfach zu viel, um schnell ein einfachen Task zu erledigen. [Remember tar](https://xkcd.com/1168/). Dafür gibt es tldr, eine community driven Sammlung von kurzen, knackigen Beschreibungen zu den wichtigsten commandline tools.
+Manchmal sind man pages einfach zu viel, um schnell ein einfachen Task zu erledigen. [Remember tar](https://xkcd.com/1168/)? Dafür gibt es tldr, eine community driven Sammlung von kurzen, knackigen Beschreibungen zu den wichtigsten commandline tools.
 ```
 brew install tldr
 ```
