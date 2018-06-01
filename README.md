@@ -102,6 +102,15 @@ Benutzung:
 tldr tmux
 ```
 
+## The Fuck
+Es passiert immer mal wieder, man hackt ein Command in die Shell: Boom, Zack, Return... Und man hat sich vertippt. Wenn es nicht all zu weit vom original Command war, gibt man nun einfach nur `fuck` als nächsten Command ein und dieses Programm führt dann den eigentlichen Befehl aus.
+<https://github.com/nvbn/thefuck>
+
+```
+brew install thefuck
+```
+
+ 
 ## Sublime Text 3
 ```
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
