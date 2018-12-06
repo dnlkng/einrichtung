@@ -1,6 +1,9 @@
 # Einrichtung eines neuen Macs
 Hier dokumentiere ich für mich die Einrichtung eines neuen Mac. 
 
+# Dotfile Bot
+Eventuell sollte ich den [dotfile bot](https://github.com/dnlkng/dotfiles) nutzen
+
 # Tools
 ## Brew
 Homebrew ist der inoffizielle Packagemanager for macOS und eigentlich unersetzlich für Entwickler. Die meisten Packages werden als Source bezogen und lokal gebaut, wobei es auch fertige Binarys gibt.
